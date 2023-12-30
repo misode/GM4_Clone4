@@ -1,5 +1,5 @@
 {
-  "last_commit": "380a0bd34daf82fd59da693a6fa6b2839b87e384",
+  "last_commit": "5c473546fbbc1ad322f232f72097331de45b97d1",
   "modules": [
     {
       "id": "gm4_animi_shamir",
@@ -10,6 +10,9 @@
       "credits": {
         "Creator": [
           "Bloo"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [
@@ -92,6 +95,9 @@
       "credits": {
         "Creator": [
           "BluePsychoRanger"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -116,8 +122,8 @@
       "important_note": null,
       "search_keywords": [],
       "publish_date": "2023-07-10",
-      "modrinth_id": null,
-      "smithed_link": null,
+      "modrinth_id": "WkDoUESw",
+      "smithed_link": "gm4_auto_crafting",
       "pmc_link": null
     },
     {
@@ -316,6 +322,28 @@
       "pmc_link": null
     },
     {
+      "id": "gm4_bookshelf_inspector",
+      "name": "Bookshelf Inspector",
+      "version": "1.0.0",
+      "video_link": "",
+      "wiki_link": "https://wiki.gm4.co/wiki/Bookshelf_Inspector",
+      "credits": {
+        "Creator": [
+          "Thanathor"
+        ]
+      },
+      "requires": [],
+      "description": "See what's in your Chiseled Bookshelves without having to take all the books out!",
+      "recommends": [],
+      "hidden": false,
+      "important_note": "Requires version 1.20.2+",
+      "search_keywords": [],
+      "publish_date": "2023-12-30",
+      "modrinth_id": "hI6pAf86",
+      "smithed_link": "gm4_bookshelf_inspector",
+      "pmc_link": null
+    },
+    {
       "id": "gm4_boots_of_ostara",
       "name": "Boots of Ostara",
       "version": "1.5.11",
@@ -357,6 +385,9 @@
       "credits": {
         "Creator": [
           "TheEpyonProject"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -369,8 +400,8 @@
       "important_note": null,
       "search_keywords": [],
       "publish_date": "2023-07-10",
-      "modrinth_id": null,
-      "smithed_link": null,
+      "modrinth_id": "qNzelyE3",
+      "smithed_link": "gm4_calling_bell",
       "pmc_link": null
     },
     {
@@ -403,7 +434,7 @@
     {
       "id": "gm4_chairs",
       "name": "Chairs",
-      "version": "1.2.11",
+      "version": "1.3.0",
       "video_link": "https://www.youtube.com/watch?v=7KbBw1hEKdY",
       "wiki_link": "https://wiki.gm4.co/wiki/Chairs",
       "credits": {
@@ -432,12 +463,15 @@
     {
       "id": "gm4_combat_expanded",
       "name": "Combat Expanded",
-      "version": "1.3.7",
+      "version": "1.4.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Combat_Expanded",
       "credits": {
         "Creator": [
           "Thanathor"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -512,7 +546,7 @@
     {
       "id": "gm4_crossbow_cartridges",
       "name": "Crossbow Cartridges",
-      "version": "1.4.11",
+      "version": "1.5.0",
       "video_link": "https://www.youtube.com/watch?v=XJiGvX7l-pI",
       "wiki_link": "https://wiki.gm4.co/wiki/Crossbow_Cartridges",
       "credits": {
@@ -648,7 +682,7 @@
     {
       "id": "gm4_display_frames",
       "name": "Display Frames",
-      "version": "1.2.10",
+      "version": "1.3.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Display_Frames",
       "credits": {
@@ -661,7 +695,7 @@
         ]
       },
       "requires": [],
-      "description": "Splash item frames with invisibilty to make invisbible item frames! Great for interior decor!",
+      "description": "Splash item frames with invisibilty to make invisible item frames! Great for interior decor!",
       "recommends": [
         "gm4_chairs",
         "gm4_better_armour_stands",
@@ -684,6 +718,9 @@
       "credits": {
         "Creator": [
           "Bloo"
+        ],
+        "Icon Design": [
+          "venomousbirds"
         ]
       },
       "requires": [],
@@ -706,6 +743,9 @@
       "credits": {
         "Creator": [
           "Sparks"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -724,7 +764,7 @@
     {
       "id": "gm4_dripleaf_launchers",
       "name": "Dripleaf Launchers",
-      "version": "1.0.8",
+      "version": "1.1.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Dripleaf_Launchers",
       "credits": {
@@ -1155,7 +1195,7 @@
     {
       "id": "gm4_lightning_in_a_bottle",
       "name": "Lightning in a Bottle",
-      "version": "1.4.9",
+      "version": "1.5.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Lightning_in_a_Bottle",
       "credits": {
@@ -1220,7 +1260,7 @@
     {
       "id": "gm4_liquid_tanks",
       "name": "Liquid Tanks",
-      "version": "2.3.12",
+      "version": "2.4.0",
       "video_link": "https://www.youtube.com/watch?v=qa9lcbii1BE",
       "wiki_link": "https://wiki.gm4.co/wiki/Liquid_Tanks",
       "credits": {
@@ -1403,7 +1443,7 @@
     {
       "id": "gm4_midnight_menaces",
       "name": "Midnight Menaces",
-      "version": "1.2.9",
+      "version": "1.3.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Mysterious_Midnights/Midnight_Menaces",
       "credits": {
@@ -1430,7 +1470,7 @@
     {
       "id": "gm4_mob_curing",
       "name": "Mob Curing",
-      "version": "1.4.10",
+      "version": "1.5.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Mob_Curing",
       "credits": {
@@ -1458,7 +1498,7 @@
     {
       "id": "gm4_mountaineering",
       "name": "Mountaineering",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Mountaineering",
       "credits": {
@@ -1480,7 +1520,7 @@
     {
       "id": "gm4_mysterious_midnights",
       "name": "Mysterious Midnights",
-      "version": "1.3.9",
+      "version": "1.4.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Mysterious_Midnights",
       "credits": {
@@ -1539,7 +1579,7 @@
     {
       "id": "gm4_orb_of_ankou",
       "name": "Orb of Ankou",
-      "version": "1.4.13",
+      "version": "1.5.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Orb_of_Ankou",
       "credits": {
@@ -1734,7 +1774,7 @@
     {
       "id": "gm4_potion_liquids",
       "name": "Potion Liquids",
-      "version": "1.4.11",
+      "version": "1.5.0",
       "video_link": "https://www.youtube.com/watch?v=qa9lcbii1BE",
       "wiki_link": "https://wiki.gm4.co/wiki/Liquid_Tanks/Potion_Liquids",
       "credits": {
@@ -1767,7 +1807,7 @@
     {
       "id": "gm4_potion_swords",
       "name": "Potion Swords",
-      "version": "1.3.10",
+      "version": "1.4.0",
       "video_link": "https://www.youtube.com/watch?v=9xI3CQ1z5cg",
       "wiki_link": "https://wiki.gm4.co/wiki/Potion_Swords",
       "credits": {
@@ -1925,6 +1965,9 @@
       "credits": {
         "Creator": [
           "Thanathor"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -2178,12 +2221,15 @@
     {
       "id": "gm4_teleportation_anchors",
       "name": "Teleportation Anchors",
-      "version": "1.2.12",
+      "version": "1.3.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/Teleportation_Anchors",
       "credits": {
         "Creator": [
           "BluePsychoRanger"
+        ],
+        "Icon Design": [
+          "Hozz"
         ]
       },
       "requires": [],
@@ -2241,7 +2287,7 @@
     {
       "id": "gm4_tnt_landmines",
       "name": "TNT Landmines",
-      "version": "1.4.11",
+      "version": "1.5.0",
       "video_link": "",
       "wiki_link": "https://wiki.gm4.co/wiki/TNT_Landmines",
       "credits": {
@@ -2558,7 +2604,7 @@
     {
       "id": "gm4_zauber_cauldrons",
       "name": "Zauber Cauldrons",
-      "version": "1.8.11",
+      "version": "1.9.0",
       "video_link": "https://www.youtube.com/watch?v=Io1JTFUzyrc",
       "wiki_link": "https://wiki.gm4.co/wiki/Zauber_Cauldrons",
       "credits": {
@@ -2593,7 +2639,7 @@
     {
       "id": "gm4_zauber_liquids",
       "name": "Zauber Liquids",
-      "version": "1.4.10",
+      "version": "1.5.0",
       "video_link": "https://www.youtube.com/watch?v=qa9lcbii1BE",
       "wiki_link": "https://wiki.gm4.co/wiki/Liquid_Tanks/Zauber_Liquids",
       "credits": {
@@ -2660,7 +2706,7 @@
     "lib_brewing": {
       "id": "gm4_brewing",
       "name": "Gamemode 4 Brewing",
-      "version": "1.0.5",
+      "version": "1.1.0",
       "video_link": "",
       "wiki_link": "",
       "credits": {
@@ -3039,6 +3085,12 @@
       "name": "Wumpacraft",
       "links": [
         "https://twitter.com/wumpacraft"
+      ]
+    },
+    "Venomousbirds": {
+      "name": "Venomousbirds",
+      "links": [
+        "https://venomousbirds.artstation.com/"
       ]
     }
   }
