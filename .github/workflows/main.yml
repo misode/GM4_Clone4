@@ -142,4 +142,4 @@ jobs:
 
       - name: Run test server
         run: |
-          java -Xmx2G -Dpacktest.auto -jar server.jar nogui
+          java -Xmx2G -Dpacktest.auto -Dpacktest.auto.annotations -jar server.jar nogui
