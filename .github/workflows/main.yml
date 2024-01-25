@@ -139,6 +139,7 @@ jobs:
         run: |
           mkdir -p world/datapacks
           cp out/gm4_*.zip world/datapacks
+          echo ::error title=example.summon failed!::Unknown predicate: example:test
 
       - name: Run test server
         run: |
